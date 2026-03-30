@@ -1,0 +1,5 @@
+{
+  "name": "OdontoSys - Gestión Odontológica",
+  "description": "Sistema integral para la gestión de un consultorio odontológico con roles de paciente, odontólogo y administrador.",
+  "requestFramePermissions": []
+}
